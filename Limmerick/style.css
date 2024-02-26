@@ -1,0 +1,28 @@
+html {
+  background-color:lightblue;
+  font-family: "Arial, Helvetica, sans-serif";
+  text-align: center;
+  font-style: italic ;
+  padding-top: 10px;
+  p{
+    font-size:45px;
+  }
+  title{
+    font-weight:bold;
+  }
+  h2{
+    color: red;
+  }
+  mydiv{
+    padding: 50px;
+    margin: 80px;
+    border: 10px solid black;
+      
+    }
+  }
+
+
+
+  height: 100%;
+  width: 100%;
+}
